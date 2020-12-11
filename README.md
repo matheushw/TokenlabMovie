@@ -25,7 +25,11 @@ Essa foi uma aplicação inteiramente desenvolvida com Flutter, tendo em destaqu
 
 ## **[Link](https://drive.google.com/file/d/1RfS8ilHRpnsGFohzNYnUo5oAupGBN7I8/view?usp=sharing)** para vídeo com demonstração de funcionamento do aplicativo
 
+## Projeto no Adobe XD
+
 ## Screenshots
+<img src="prints/XDHome.png" width="288">
+<img src="prints/XDMovieInfo.png" width="288"> <img src="prints/XDMovieInfo2.png" width="288">
 
 ### Tela Inicial
 <img src="prints/flutter_01.png" width="288"> <img src="prints/flutter_02.png" width="288">
