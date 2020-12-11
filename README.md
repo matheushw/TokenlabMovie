@@ -27,10 +27,10 @@ Essa foi uma aplicação inteiramente desenvolvida com Flutter, tendo em destaqu
 
 ## Projeto no Adobe XD
 ### Tela Inicial
-<img src="prints/XDHome.png" width="288">
+<img src="prints/HomeXD.png" width="288">
 
 ### Tela de detalhes de filme
-<img src="prints/XDMovieInfo.png" width="288"> <img src="prints/XDMovieInfo2.png" width="288">
+<img src="prints/MovieInfoXD.png" width="288"> <img src="prints/MovieInfoXD2.png" width="288">
 
 ## Screenshots do aplicativo rodando em um Galaxy S9
 ### Tela Inicial
