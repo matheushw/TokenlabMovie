@@ -1,4 +1,4 @@
-# TokenlabMovie
+# Tokenlab Movie
 
 ## Descrição do projeto
 Aplicativo criado com o objetivo de cumprir o desafio proposto no processo seletivo da empresa Tokenlab.
