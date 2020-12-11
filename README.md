@@ -23,6 +23,8 @@ Essa foi uma aplicação inteiramente desenvolvida com Flutter, tendo em destaqu
 - Flutter Launcher Icons
 - Flutter Spinkit
 
+## **[Link](https://drive.google.com/file/d/1RfS8ilHRpnsGFohzNYnUo5oAupGBN7I8/view?usp=sharing)** para vídeo com demonstração de funcionamento do aplicativo
+
 ## Screenshots
 
 ### Tela Inicial
@@ -30,5 +32,3 @@ Essa foi uma aplicação inteiramente desenvolvida com Flutter, tendo em destaqu
 
 ### Tela de detalhes de filme
 <img src="prints/flutter_03.png" width="288"> <img src="prints/flutter_04.png" width="288">
-
-## **[Link](https://drive.google.com/file/d/1RfS8ilHRpnsGFohzNYnUo5oAupGBN7I8/view?usp=sharing)** para vídeo com demonstração de funcionamento do aplicativo
