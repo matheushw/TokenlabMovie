@@ -1,6 +1,4 @@
 # Tokenlab Movie
-
-## Descrição do projeto
 Aplicativo criado com o objetivo de cumprir o desafio proposto no processo seletivo da empresa Tokenlab.
 
 O aplicativo simula uma base de dados online de filmes, onde são listados alguns titulos de relevância no mundo todo. Todos os dados são obtidos por meio de uma requisição HTTP no endpoint https://desafio-mobile.nyc3.digitaloceanspaces.com/movies.
