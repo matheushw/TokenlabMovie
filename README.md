@@ -26,15 +26,9 @@ Essa foi uma aplicação inteiramente desenvolvida com Flutter, tendo em destaqu
 ## Screenshots
 
 ### Tela Inicial
-### ![Falstad](prints/flutter_01.png)
-
-### Tela Inicial (Parte inferior)
-### ![Falstad](prints/flutter_02.png)
+<img src="prints/flutter_01.png" width="288"> <img src="prints/flutter_02.png" width="288">
 
 ### Tela de detalhes de filme
-### ![Falstad](prints/flutter_03.png)
-
-### Tela de detalhes de filme (Parte inferior)
-### ![Falstad](prints/flutter_04.png)
+<img src="prints/flutter_03.png" width="288"> <img src="prints/flutter_04.png" width="288">
 
 ## **[Link](https://drive.google.com/file/d/1RfS8ilHRpnsGFohzNYnUo5oAupGBN7I8/view?usp=sharing)** para vídeo com demonstração de funcionamento do aplicativo
