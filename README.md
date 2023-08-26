@@ -1,17 +1,15 @@
 # Tokenlab Movie
-Aplicativo criado com o objetivo de cumprir o desafio proposto no processo seletivo da empresa Tokenlab.
+The application simulates an online movie database listing some globally relevant movie titles. All data is obtained through an HTTP request to the endpoint https://challenge-mobile.nyc3.digitaloceanspaces.com/movies.
 
-O aplicativo simula uma base de dados online de filmes, onde são listados alguns titulos de relevância no mundo todo. Todos os dados são obtidos por meio de uma requisição HTTP no endpoint https://desafio-mobile.nyc3.digitaloceanspaces.com/movies.
+The MVC (Model-View-Controller) architectural pattern was used as the foundation for the project development.
 
-Para o desenvolvimento do projeto, foi tomado como base o padrão arquitetural MVC (Model-View-Controller). 
+## Technologies used
+This was an application entirely developed with Flutter, highlighting the use of Mobx to assist in state management.
 
-## Tecnologia utilizada
-Essa foi uma aplicação inteiramente desenvolvida com Flutter, tendo em destaque a utilização do Mobx para axiliar na manutenção de estados.
-
-### Kit de desenvolvimento
+### Development Kit
 - Flutter
 
-### Dependências
+### Dependencies
 - HTTP
 - Mobx
 - Mobx Codegen
@@ -21,18 +19,18 @@ Essa foi uma aplicação inteiramente desenvolvida com Flutter, tendo em destaqu
 - Flutter Launcher Icons
 - Flutter Spinkit
 
-## **[Link](https://drive.google.com/file/d/1RfS8ilHRpnsGFohzNYnUo5oAupGBN7I8/view?usp=sharing)** para vídeo com demonstração de funcionamento do aplicativo
+## **[Link](https://drive.google.com/file/d/1RfS8ilHRpnsGFohzNYnUo5oAupGBN7I8/view?usp=sharing)** to video demonstration.
 
-## Projeto no Adobe XD
-### Tela Inicial
+## Project at Adobe XD
+### Home screen
 <img src="prints/HomeXD.png" width="288">
 
-### Tela de detalhes de filme
+### Movie Details Screen
 <img src="prints/XDMovieInfo.png" width="288"> <img src="prints/XDMovieInfo2.png" width="288">
 
-## Screenshots do aplicativo rodando em um Galaxy S9
-### Tela Inicial
+## Screenshots of the application running on a Galaxy S9.
+### Home screen
 <img src="prints/flutter_01.png" width="288"> <img src="prints/flutter_02.png" width="288">
 
-### Tela de detalhes de filme
+### Movie Details Screen
 <img src="prints/flutter_03.png" width="288"> <img src="prints/flutter_04.png" width="288">
